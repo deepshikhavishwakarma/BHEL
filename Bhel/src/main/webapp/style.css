@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+body{
+	background-color:red;
+}
+
+.card{
+  background-color:burlywood;
+  width:835px;
+
+}
+
+.card1{
+background-color:yellow;
+width:980px;
+height:450px;
+margin-top:190px;	
+}
+.card-header{
+ position:relative;
+ background-color:red;
+ align-items:center;
+ color:#fff;
+}
